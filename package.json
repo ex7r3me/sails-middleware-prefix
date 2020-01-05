@@ -1,0 +1,25 @@
+{
+  "name": "sails-middleware-prefix",
+  "version": "0.0.1",
+  "description": "Add prefix for sailsjs middlewares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ex7r3me/sails-middleware-prefix.git"
+  },
+  "keywords": [
+    "sails",
+    "sailsjs",
+    "middleware",
+    "express"
+  ],
+  "author": "ex7r3me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ex7r3me/sails-middleware-prefix/issues"
+  },
+  "homepage": "https://github.com/ex7r3me/sails-middleware-prefix#readme"
+}
