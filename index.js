@@ -7,4 +7,4 @@ const addPrefix = (prefix, middleware, req, res, next) => {
     }
     return next()
 }
-export default addPrefix
+exports.default = addPrefix
