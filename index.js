@@ -1,5 +1,5 @@
 const callWithPrefix = (prefix, middleware, req, res, next) => {
-    if (prefix && middleware && req, res, next) {
+    if (prefix && middleware && req && res && next) {
         const regex = new RegExp('^' + prefix + '(/|$)')
         if (req.url.match(regex)) {
             req.proxyUrl = req.baseUrl = (req.proxyUrl || '') + prefix
