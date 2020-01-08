@@ -1,7 +1,7 @@
 # sails-middleware-prefix
 Add prefix to sailsjs middlewares, like using **app.use('/foo/bar',middleware)** in express
 
-[![Actions Status](https://github.com/{owner}/{repo}/workflows/{workflow_name}/badge.svg)](https://github.com/{owner}/{repo}/actions)
+[![Actions Status](https://github.com/ex7r3me/sails-middleware-prefix/workflows/Node%20CI/badge.svg)](https://github.com/ex7r3me/sails-middleware-prefix/actions)
 
 **Usage:**
 
