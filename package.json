@@ -1,6 +1,6 @@
 {
   "name": "sails-middleware-prefix",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add prefix for sailsjs middlewares",
   "main": "index.js",
   "scripts": {
